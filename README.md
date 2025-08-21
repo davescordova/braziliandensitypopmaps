@@ -12,7 +12,7 @@ It generates both **static maps (JPG, 1200 dpi)** and exports data tables (Excel
 - Produce:
   - **Static maps** with state boundaries and labels.
   - **Excel tables** with historical and projected data.
-
+  - **Interactive map** with historical and projected data.
 ---
 
 ## ⚙️ Installation
